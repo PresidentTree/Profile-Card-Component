@@ -1,5 +1,5 @@
 # Profile-Card-Component
-My solution to Frontend Mentor's Profile Card Component challenge. The background does not work right.
+My solution to Frontend Mentor's Profile Card Component challenge.
 
 ![Desktop](https://raw.githubusercontent.com/PresidentTree/Profile-Card-Component/main/Profile%20Card%20Component%201.jpeg)
 ![Mobile](https://raw.githubusercontent.com/PresidentTree/Profile-Card-Component/main/Profile%20Card%20Component%202.jpeg)
